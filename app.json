@@ -1,13 +1,13 @@
 
 {
-  "name": "Chat-Gpt",
+  "name": "Hacker_x_Chat-Gpt",
   "description": "A Telegram open-ai Chatgpt bot.",
-  "logo": "https://te.legra.ph/file/9fa2101b77407dbec7d31.jpg",
+  "logo": "https://te.legra.ph/file/d106519f324f3309b23eb.jpg",
   "keywords": [
     "telegram", "chatgpt",
     "python",
     "pyrogram",
-    "Noob-Mukesh"   
+    "Baap-OP"   
   ],
   "stack": "heroku-20",
   "addons": [
